@@ -2,13 +2,16 @@ import requests
 import time
 
 # ---
-# Coded by binh!
-# Github: https://github.com/binh7580/OperaGx-Nitro-Gen-PATCHED
+# Coded by Odd!
+# Contributers: DuckyBlender and NorthernChicken
+# Github: https://github.com/OddDevelopment/OperaGX-Nitro-Gen
+# Portfolio: https://odd.rip
+# ---
 
-print("Our project is https://github.com/binh7580/OperaGx-Nitro-Gen-PATCHED please give it a star to support the project <3")
+print("Our project is https://github.com/OddDevelopment/OperaGX-Nitro-Gen please give it a star to support the project <3.\n\nMore about me: https://odd.rip\n\n\n")
 
 def get_token():
-  url = "https://api.gx.games/v1/direct-fulfillment" \
+  url = "https://api.gx.me/profile/token"
   headers = {
       'accept':
       'application/json',
