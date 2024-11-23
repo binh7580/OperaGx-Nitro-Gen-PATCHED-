@@ -1,12 +1,6 @@
 import requests
 import time
 
-# ---
-# Coded by Odd!
-# Contributers: DuckyBlender and NorthernChicken
-# Github: https://github.com/OddDevelopment/OperaGX-Nitro-Gen
-# Portfolio: https://odd.rip
-# ---
 
 print("Our project is https://github.com/OddDevelopment/OperaGX-Nitro-Gen please give it a star to support the project <3.\n\nMore about me: https://odd.rip\n\n\n")
 
